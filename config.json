@@ -1,6 +1,7 @@
 {
 	"current_version": "v2.0.0-alpha.6",
 	"display_order": [
+		"bogus-tutorial",
 		"create-your-first-substrate-chain",
 		"build-a-dapp",
 		"start-a-private-network",

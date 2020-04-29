@@ -1,0 +1,14 @@
+{
+	"slug": "config",
+	"lang": "en",
+	"title": "Bogus Tutorial",
+	"excerpt": "A Bogus Tutorial for testing git tags",
+	"tags": [ "Easy", "< 1 Hour", "Prerequisites" ],
+	"versions": [ "v2.0.0-alpha.6" ],
+	"menu": [
+		{ "title": "Introduction", "slug": "index" },
+		{ "title": "Prepare to build a dApp", "slug": "prepare" },
+		{ "title": "Building a Custom Pallet", "slug": "pallet" },
+		{ "title": "Building a Custom Front End", "slug": "front-end" }
+	]
+}
