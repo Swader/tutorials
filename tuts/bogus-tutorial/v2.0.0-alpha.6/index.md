@@ -4,4 +4,4 @@ lang: en
 title: Introduction
 ---
 
-Index of some bogus content.
+Index of some additional bogus content.

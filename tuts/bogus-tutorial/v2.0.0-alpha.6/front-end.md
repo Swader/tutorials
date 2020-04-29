@@ -4,4 +4,4 @@ lang: en
 title: Building a Custom Front End
 ---
 
-This is some bogus content.
+This is some additional bogus content.

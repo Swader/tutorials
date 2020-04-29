@@ -4,4 +4,4 @@ lang: en
 title: Building a Custom Pallet
 ---
 
-This is some bogus content.
+This is some additional bogus content.
